@@ -1,19 +1,67 @@
 ﻿Name,Status,Starts (Local),Ends (Local),Organization,Instructor,Classroom,Delivery Language,Contact Email Address,Price Tier 1,Price Tier 2,Price Tier 3
-Fundamentals of Cisco Firewall Threat Defense and Intrusion Prevention (SFWIPF),Guaranteed to run,20/07/2026 09:00,24/07/2026 17:00,LLPA, ,,English (United States),'@Semos.com.mk,1440,1440,1440
-Claude AI Workshop,Guaranteed to run,24/07/2026 09:30,24/07/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,295,295,295
-Mile2 C)IHE: Certified Incident Handling Engineer CIHE20260727,Guaranteed to run,27/07/2026 09:00,31/07/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
-Word for the Business User,Guaranteed to run,29/07/2026 09:30,29/07/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,100,100,100
-Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20260803,Guaranteed to run,03/08/2026 09:00,07/08/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
-Business Writing,Guaranteed to run,05/08/2026 09:30,05/08/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
-Time Management: The Fast and Easy Way to Boost Productivity,Guaranteed to run,11/08/2026 09:30,11/08/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
-ITIL (Version 5) Foundation with Exam,Guaranteed to run,24/08/2026 09:30,26/08/2026 17:00,LLPA, ,,English (United States),info@nexushuman.ie,895,895,895
-Mile2 C)PEH/C)PTE: Certified Ethical Hacker & Penetration Testing Engineer CPEHCPTE20260914,Guaranteed to run,14/09/2026 09:00,18/09/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
-AI+ Project Manager Fundamentals,Guaranteed to run,18/09/2026 08:00,18/09/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
-Mile2 C)TIA: Certified Threat Intelligence Analyst CTIA20260921,Guaranteed to run,21/09/2026 09:00,25/09/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
-AI+ Prompting Fundamentals,Guaranteed to run,01/10/2026 08:00,01/10/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00,€385.00
-Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261005,Guaranteed to run,05/10/2026 09:00,09/10/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
-AI+ Product Manager Fundametals,Guaranteed to run,09/10/2026 08:00,09/10/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
-AI+ Human Resources Practitioner,Guaranteed to run,13/10/2026 08:00,13/10/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
-AI+ Context Engineering,Guaranteed to run,06/11/2026 08:00,06/11/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
-Mile2 C)DFE: Certified Digital Forensics Examiner CDFE20261109,Guaranteed to run,09/11/2026 09:00,13/11/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1677
-Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261214,Guaranteed to run,14/12/2026 09:00,18/12/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Fundamentals of Cisco Firewall Threat Defense and Intrusion Prevention (SFWIPF),Scheduled,7/20/2026 9:00 AM,7/24/2026 5:00 PM,LLPA, ,,English (United States),'@Semos.com.mk,1440,1440,1440
+Claude AI Workshop,Guaranteed to run,7/24/2026 9:30 AM,7/24/2026 4:30 PM,LLPA, ,,English (United States),info@nexushuman.ie,295,295,295
+Mile2 C)IHE: Certified Incident Handling Engineer CIHE20260727,Guaranteed to run,7/27/2026 9:00 AM,7/31/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Word for the Business User,Guaranteed to run,7/29/2026 9:30 AM,7/29/2026 4:30 PM,LLPA, ,,English (United States),info@nexushuman.ie,100,100,100
+Cloud Essentials,Guaranteed to run,8/3/2026 9:00 AM,8/3/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€1545.83,€1545.83,€1545.83
+Container Einsatz mit Docker,Guaranteed to run,8/3/2026 9:00 AM,9/1/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1241.67,€1241.67,€1241.67
+Introduction to Microsoft 365 and AI administration,Guaranteed to run,8/3/2026 9:00 AM,8/3/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€575.00,€575.00,€575.00
+Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20260803,Guaranteed to run,8/3/2026 9:00 AM,8/7/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Introduction to Cloud Infrastructure,Guaranteed to run,8/4/2026 9:00 AM,8/4/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€575.00,€575.00,€575.00
+"Introduction to MIcrosoft Security, Compliance, and Identity",Guaranteed to run,8/5/2026 9:00 AM,8/5/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€575.00,€575.00,€575.00
+KVM Server Virtualisierung,Guaranteed to run,8/5/2026 9:00 AM,8/7/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€1570.83,€1570.83,€1570.83
+Business Writing,Guaranteed to run,8/5/2026 9:30 AM,8/5/2026 4:30 PM,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
+ITIL® (Version 5) Foundation,Guaranteed to run,8/10/2026 9:00 AM,8/12/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1408.33,€1408.33,€1408.33
+Microsoft 365 Administrator,Guaranteed to run,8/10/2026 9:00 AM,8/14/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2375.00,€2375.00,€2375.00
+Microsoft Azure Administrator,Guaranteed to run,8/10/2026 9:00 AM,8/13/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1916.67,€1916.67,€1916.67
+Microsoft Office 365 Administration,Guaranteed to run,8/10/2026 9:00 AM,8/14/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2375.00,€2375.00,€2375.00
+Windows Client Fundamentals,Guaranteed to run,8/10/2026 9:00 AM,8/12/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1566.67,€1566.67,€1566.67
+Windows Grundlagen für Administratoren,Guaranteed to run,8/10/2026 9:00 AM,8/12/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1566.67,€1566.67,€1566.67
+Time Management: The Fast and Easy Way to Boost Productivity,Guaranteed to run,8/11/2026 9:30 AM,8/11/2026 4:30 PM,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
+SELinux 2 - Konfiguration und Management,Guaranteed to run,8/12/2026 9:00 AM,8/14/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1570.83,€1570.83,€1570.83
+Gestalten und Verwalten von SharePoint Sites,Guaranteed to run,8/24/2026 9:00 AM,8/27/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2158.33,€2158.33,€2158.33
+Microsoft 365 – Exchange Online Messaging,Guaranteed to run,8/24/2026 9:00 AM,8/27/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2204.17,€2204.17,€2204.17
+Microsoft Excel Advanced,Guaranteed to run,8/24/2026 9:00 AM,8/25/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€483.33,€483.33,€483.33
+ITIL (Version 5) Foundation with Exam,Guaranteed to run,8/24/2026 9:30 AM,8/26/2026 5:00 PM,LLPA, ,,English (United States),info@nexushuman.ie,895,895,895
+"Plan, configure, and manage collaboration communications systems with Microsoft Teams",Guaranteed to run,8/25/2026 9:00 AM,8/28/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2329.17,€2329.17,€2329.17
+Check Point Certified Security Administrator (CCSA) R82,Guaranteed to run,8/31/2026 9:00 AM,9/2/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1825.00,€1825.00,€1825.00
+Microsoft Power Platform Functional Consultant,Guaranteed to run,8/31/2026 9:00 AM,9/4/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2241.67,€2241.67,€2241.67
+BlackBelt - Troubleshooting the Windows OS (Part 1),Guaranteed to run,9/7/2026 9:00 AM,9/10/2026 5:00 PM,LLPA, ,,English (United States),'@Etc.at,€2845.83,€2845.83,€2845.83
+Kundenorientierung für Servicemitarbeiter,Guaranteed to run,9/7/2026 9:00 AM,9/8/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1575.00,€1575.00,€1575.00
+"Python für Data Science, Maschinelles Lernen & Visualisierung",Guaranteed to run,9/7/2026 9:00 AM,9/11/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2479.17,€2479.17,€2479.17
+Scrum Foundation für Scrum Master und Product Owner,Guaranteed to run,9/7/2026 9:00 AM,9/8/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1391.67,€1391.67,€1391.67
+UNIX/Linux I+II - Bundle (GK6400+GK6701),Guaranteed to run,9/7/2026 9:00 AM,9/11/2026 5:00 PM,LLPA, ,,English (United States),,€2075.00,€2075.00,€2075.00
+ITIL® (Version 5) Foundation,Guaranteed to run,9/9/2026 9:00 AM,9/11/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1408.33,€1408.33,€1408.33
+Linux Administration I (LPI 101+102),Guaranteed to run,9/14/2026 9:00 AM,9/16/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1658.33,€1658.33,€1658.33
+Mile2 C)PEH/C)PTE: Certified Ethical Hacker & Penetration Testing Engineer CPEHCPTE20260914,Guaranteed to run,9/14/2026 9:00 AM,9/18/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Power Platform Solution Architect,Guaranteed to run,9/14/2026 9:00 AM,9/17/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2112.50,€2112.50,€2112.50
+"Sicherheit mit PKI, SSL und TLS",Guaranteed to run,9/17/2026 9:00 AM,9/18/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1325.00,€1325.00,€1325.00
+AI+ Project Manager Fundamentals,Guaranteed to run,9/18/2026 8:00 AM,9/18/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
+Certified Professional for Software Architecture (CPSA) Foundation Level,Guaranteed to run,9/21/2026 9:00 AM,9/23/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1666.67,€1666.67,€1666.67
+Microsoft 365 Endpoint Administrator,Guaranteed to run,9/21/2026 9:00 AM,9/25/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2266.67,€2266.67,€2266.67
+Mile2 C)TIA: Certified Threat Intelligence Analyst CTIA20260921,Guaranteed to run,9/21/2026 9:00 AM,9/25/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Smart Windows Client für IT-Professionals,Guaranteed to run,9/21/2026 9:00 AM,9/25/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2266.67,€2266.67,€2266.67
+Systemhärtung Linux,Guaranteed to run,9/22/2026 9:00 AM,9/25/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2066.67,€2066.67,€2066.67
+Check Point Certified Security Expert R82.X,Guaranteed to run,9/28/2026 9:00 AM,9/30/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1825.00,€1825.00,€1825.00
+Netzwerk-Grundlagen und TCP/IP Networking,Guaranteed to run,9/28/2026 9:00 AM,10/2/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2158.33,€2158.33,€2158.33
+AI+ Prompting Fundamentals,Guaranteed to run,10/1/2026 8:00 AM,10/1/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00,€385.00
+(Check Point) IPSEC VPN Troubleshooting Workshop,Guaranteed to run,10/5/2026 9:00 AM,10/5/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€816.67,€816.67,€816.67
+Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261005,Guaranteed to run,10/5/2026 9:00 AM,10/9/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Microsoft Excel PowerPivot,Guaranteed to run,10/7/2026 9:00 AM,10/7/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€616.67,€616.67,€616.67
+IPMA®/pma Lehrgang Level-C/B,Guaranteed to run,10/8/2026 9:00 AM,10/13/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2166.67,€2166.67,€2166.67
+IPMA®/pma Lehrgang Level-D,Guaranteed to run,10/8/2026 9:00 AM,10/12/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€1854.17,€1854.17,€1854.17
+AI+ Product Manager Fundametals,Guaranteed to run,10/9/2026 8:00 AM,10/9/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
+AI+ Human Resources Practitioner,Guaranteed to run,10/13/2026 8:00 AM,10/13/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
+Workshop - Modern Desktop und Device Management mit Intune (Teil 1),Guaranteed to run,10/19/2026 9:00 AM,10/23/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,€2708.33,€2708.33,€2708.33
+Design Thinking,Guaranteed to run,10/22/2026 9:00 AM,10/23/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€1291.67,€1291.67,€1291.67
+Penetration Testing mit Kali Linux,Guaranteed to run,10/27/2026 9:00 AM,10/30/2026 5:00 PM,LLPA, ,,German (Austria),,€2066.67,€2066.67,€2066.67
+Develop AI apps and agents on Azure,Guaranteed to run,11/2/2026 9:00 AM,11/5/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€2112.50,€2112.50,€2112.50
+ITIL® Transition,Guaranteed to run,11/2/2026 9:00 AM,11/6/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€3325.00,€3325.00,€3325.00
+AI+ Context Engineering,Guaranteed to run,11/6/2026 8:00 AM,11/6/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,€385.00 ,€385.00 ,€385.00 
+BlackBelt - Advanced Troubleshooting the Windows OS (Part 2),Guaranteed to run,11/9/2026 9:00 AM,11/12/2026 5:00 PM,LLPA, ,,English (United States),'@ETC.at,€2845.83,€2845.83,€2845.83
+Mile2 C)DFE: Certified Digital Forensics Examiner CDFE20261109,Guaranteed to run,11/9/2026 9:00 AM,11/13/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1677
+Certified Scrum Product Owner (CSPO) - Scrum Alliance Zertifizierung,Guaranteed to run,11/12/2026 9:00 AM,11/13/2026 5:00 PM,LLPA, ,,English (United States),'@ETC.at,€1166.67,€1166.67,€1166.67
+ITIL Transformation,Guaranteed to run,11/23/2026 9:00 AM,11/25/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€2037.50,€2037.50,€2037.50
+Microsoft 365 Administrator,Guaranteed to run,11/23/2026 9:00 AM,11/27/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€2375.00,€2375.00,€2375.00
+Scrum Foundation für Scrum Master und Product Owner,Guaranteed to run,11/23/2026 9:00 AM,11/24/2026 5:00 PM,LLPA, ,,German (Austria),'@ETC.at,€1391.67,€1391.67,€1391.67
+Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261214,Guaranteed to run,12/14/2026 9:00 AM,12/18/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
