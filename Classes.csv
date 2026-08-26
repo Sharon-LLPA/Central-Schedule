@@ -1,10 +1,4 @@
 ﻿Name,Status,Starts (Local),Ends (Local),Organization,Instructor,Classroom,Delivery Language,Contact Email Address,Price Tier 1,Price Tier 2,Price Tier 3
-Architecting on AWS,Guaranteed to run,8/24/2026 9:00 AM,8/26/2026 4:00 PM,LLPA, ,,English (United States),'@Cloudteam.pl,1300,1300,1300
-Gestalten und Verwalten von SharePoint Sites,Guaranteed to run,8/24/2026 9:00 AM,8/27/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,2158.33,2158.33,2158.33
-Microsoft 365 – Exchange Online Messaging,Guaranteed to run,8/24/2026 9:00 AM,8/27/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,2204.17,2204.17,2204.17
-Microsoft Excel Advanced,Guaranteed to run,8/24/2026 9:00 AM,8/25/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,483.33,483.33,483.33
-ITIL (Version 5) Foundation with Exam,Guaranteed to run,8/24/2026 9:30 AM,8/26/2026 5:00 PM,LLPA, ,,English (United States),info@nexushuman.ie,895,895,895
-"Plan, configure, and manage collaboration communications systems with Microsoft Teams",Guaranteed to run,8/25/2026 9:00 AM,8/28/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,2329.17,2329.17,2329.17
 Check Point Certified Security Administrator (CCSA) R82,Guaranteed to run,8/31/2026 9:00 AM,9/2/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,1825,1825,1825
 Microsoft Power Platform Functional Consultant,Guaranteed to run,8/31/2026 9:00 AM,9/4/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,2241.67,2241.67,2241.67
 Microsoft Certified: Power Bi Data Analyst Associate,Guaranteed to run,9/6/2026 9:00 AM,9/9/2026 5:00 PM,LLPA, ,,English (United States),'@thinksmartgulf.com,735,735,735
@@ -35,6 +29,7 @@ Agile Certified Practitioner Preparation Training,Guaranteed to run,9/28/2026 9:
 Check Point Certified Security Expert R82.X,Guaranteed to run,9/28/2026 9:00 AM,9/30/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,1825,1825,1825
 ITIL® Product (Version 5),Guaranteed to run,9/28/2026 9:00 AM,9/29/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,1309,1309,1309
 Netzwerk-Grundlagen und TCP/IP Networking,Guaranteed to run,9/28/2026 9:00 AM,10/2/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,2158.33,2158.33,2158.33
+EU AI Act: AI Compliance Training,Scheduled,10/1/2026 9:00 AM,10/2/2026 5:00 PM,LLPA, ,,English (United States),'@bittnet.ro,700,700,700
 (Check Point) IPSEC VPN Troubleshooting Workshop,Guaranteed to run,10/5/2026 9:00 AM,10/5/2026 5:00 PM,LLPA, ,,German (Austria),'@Etc.at,816.67,816.67,816.67
 Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261005,Guaranteed to run,10/5/2026 9:00 AM,10/9/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
 SAFe® DevOps (SDP),Guaranteed to run,10/5/2026 1:00 PM,10/8/2026 5:00 PM,LLPA, ,,English (United States),'@Itce.com,1188,1188,1188
@@ -76,5 +71,6 @@ Scrum Foundation für Scrum Master und Product Owner,Guaranteed to run,11/23/202
 AZ-040: Automate Administration with PowerShell,Guaranteed to run,11/23/2026 9:30 AM,11/27/2026 5:30 PM,LLPA, ,,English (United States),'@training.rumos.pt,1318,1318,1318
 Practical Python Programming,Guaranteed to run,11/23/2026 9:30 AM,11/26/2026 5:30 PM,LLPA, ,,English (United States),'@training.rumos.pt,1122,1122,1122
 SAFe® AI-Empowered Scrum Master,Guaranteed to run,11/30/2026 10:00 AM,12/4/2026 2:00 PM,LLPA, ,,English (United States),'@Itce.com,1188,1188,1188
+Introduction to AI and Machine Learning on Google Cloud,Scheduled,12/4/2026 9:00 AM,12/4/2026 5:00 PM,LLPA, ,,English (United States),'@bittnet.ro,520,520,520
 SAFe® 6.0 Lean Portfolio Management,Guaranteed to run,12/7/2026 1:00 PM,12/11/2026 6:00 PM,LLPA, ,,English (United States),'@Itce.com,1897.5,1897.5,1897.5
 Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261214,Guaranteed to run,12/14/2026 9:00 AM,12/18/2026 5:00 PM,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
